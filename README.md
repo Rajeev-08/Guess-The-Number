@@ -14,7 +14,5 @@ A simple and fun web game where you try to guess the secret number between 1 and
 - **CSS** – Neon-themed styling
 - **JavaScript** – Game logic and interactivity
 
-## 🚀 Run the Game
-👉 [Play it live here](https://guessthenumber-vert-five.vercel.app)
 
 ---
